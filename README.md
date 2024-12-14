@@ -1,0 +1,2 @@
+# cognifyfullstack
+Internship tasks
